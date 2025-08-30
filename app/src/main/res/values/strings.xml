@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OverQuack Client</string>
+    <string name="connect_to_device">Connect to Device</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="upload_payload">Upload .oqs Payload</string>
+    <string name="status_not_connected">Status: Not connected</string>
+    <string name="status_connected">Connected to %1$s</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="payloads_title">Available .oqs Payloads</string>
+    <string name="device_connection">Device Connection</string>
+    <string name="select_oqs_file">Select .oqs payload file</string>
+    <string name="upload_success">✓ Upload successful: %1$s</string>
+    <string name="upload_failed">✗ Upload failed: %1$s</string>
+    <string name="upload_error">Upload error: %1$s</string>
+    <string name="payload_executed">✓ Payload executed successfully</string>
+    <string name="payload_failed">✗ Failed to execute payload</string>
+    <string name="connection_failed">Could not connect to device</string>
+    <string name="connected_successfully">Connected successfully!</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="please_select_oqs">Please select a .oqs file</string>
+    <string name="uploading_file">Uploading %1$s...</string>
+</resources>

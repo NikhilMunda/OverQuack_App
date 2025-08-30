@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Exclude OverQuack configuration from cloud backup -->
+        <exclude domain="sharedpref" path="overquack_config" />
+    </cloud-backup>
+    
+    <device-transfer>
+        <!-- Exclude OverQuack configuration from device transfer -->
+        <exclude domain="sharedpref" path="overquack_config" />
+    </device-transfer>
+</data-extraction-rules>
