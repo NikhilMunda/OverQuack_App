@@ -7,7 +7,7 @@ An Android app to manage `.oqs` payload files on OverQuack devices (Raspberry Pi
 
 ## 🫡 Acknowledgments
 
-This App is inspired from [VexilonHacker](https://github.com/VexilonHacker/OverQuack). I liked his project and since its seems like OverQuack only supports Linux so I thought on making an app to support his Work. I love Raspberry Pico W 💕 how well it works with OverQuack code.
+This App is inspired from [VexilonHacker](https://github.com/VexilonHacker/OverQuack). I liked his project and since its seems like OverQuack only supports Linux so I thought on making an app to support his Work. I love Raspberry Pico W 💕 how well it worked with OverQuack code.
 
 ![OverQuack Android Client](https://img.shields.io/badge/Platform-Android-green)
 ![API Level](https://img.shields.io/badge/API%20Level-24+-blue)
