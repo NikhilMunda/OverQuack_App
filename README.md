@@ -51,6 +51,7 @@ This App is inspired from [VexilonHacker](https://github.com/VexilonHacker/OverQ
 1. **Clone the Project**
    ```bash
    git clone https://github.com/NikhilMunda/OverQuack_App.git
+   mv OverQuack_App OverQuack
    cd OverQuack
    ```
 
