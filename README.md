@@ -1,6 +1,7 @@
 # OverQuack Android Client
 
-![Screenshot_2025-08-30-21-46-00-97_556491e4cfdfc803a33e975ddcdf2b55](https://github.com/user-attachments/assets/1787ea3c-95b4-42b6-9333-24481db67266)
+<img width="240" height="540" alt="image" src="https://github.com/user-attachments/assets/1787ea3c-95b4-42b6-9333-24481db67266" /> <img width="240" height="540" alt="image" src="https://github.com/user-attachments/assets/5e2ca8f1-64f1-40b3-ac2c-3d27b8938996" />
+
 
 An Android app to manage `.oqs` payload files on OverQuack devices (Raspberry Pi Pico W). This app allows you to connect to the device over Wi-Fi, upload, run, read, delete, and download `.oqs` payloads with advanced features like free memory checking and reliable upload handling.
 
